@@ -1,0 +1,10 @@
+.filterForm {
+	display: flex;
+	width: 100%;
+}
+.filterInput {
+	width: 100%;
+	padding: 0 8px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+}
