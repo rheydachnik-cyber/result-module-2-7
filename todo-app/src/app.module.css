@@ -1,0 +1,11 @@
+.appContainer {
+	width: 550px;
+	margin: 40px auto;
+	border: 3px solid #666;
+	border-radius: 12px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.tasksArea {
+	padding: 5px 0;
+}
