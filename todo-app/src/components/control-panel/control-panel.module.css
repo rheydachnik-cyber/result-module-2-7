@@ -1,0 +1,8 @@
+.controlsContainer {
+	display: flex;
+	height: 28px;
+	border-bottom: 2px solid #666;
+	padding: 12px;
+	background: #f9f9f9;
+	border-radius: 10px 10px 0 0;
+}
