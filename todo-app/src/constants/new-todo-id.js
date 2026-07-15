@@ -1,0 +1,1 @@
+export const FRESH_TASK_ID = 'FRESH_TASK_ID';
