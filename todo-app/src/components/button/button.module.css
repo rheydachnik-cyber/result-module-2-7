@@ -1,0 +1,13 @@
+.clickable {
+	position: relative;
+	width: 28px;
+	height: 26px;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-left: 10px;
+	border: 1px solid #aaa;
+	background: #f0f0f0;
+	cursor: pointer;
+}
