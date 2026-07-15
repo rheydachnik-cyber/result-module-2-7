@@ -1,0 +1,36 @@
+.taskContainer {
+	display: flex;
+	padding: 12px;
+	border-bottom: 1px solid #ddd;
+	align-items: center;
+}
+.taskContainer:last-child {
+	border: none;
+}
+.statusCheckbox {
+	width: 22px;
+	height: 22px;
+	margin: 0 12px 0 0;
+	cursor: pointer;
+}
+.taskTitle {
+	width: 100%;
+	margin-right: 12px;
+}
+.titleText {
+	display: block;
+	padding: 3px 0;
+	cursor: pointer;
+}
+.titleText:hover {
+	background: #f5f5f5;
+}
+.editInput {
+	width: 100%;
+	padding: 3px 5px;
+	border: 1px solid #999;
+	border-radius: 3px;
+}
+.actionArea {
+	min-width: 38px;
+}
