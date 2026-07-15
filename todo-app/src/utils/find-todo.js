@@ -1,0 +1,1 @@
+export const locateTask = (tasks, targetId) => tasks.find(({ id }) => id === targetId);
